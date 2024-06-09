@@ -1,4 +1,4 @@
-# Função para Calcular Idade Considerando Anos Bissextos Com Critérios Específicos com JS Puro
+# Função em Javascript para Calcular Idade Considerando Anos Bissextos Com Critérios Específicos
 Função para Calcular Idade Considerando Anos Bissextos Com Critérios Específicos com JS Puro
 
 
